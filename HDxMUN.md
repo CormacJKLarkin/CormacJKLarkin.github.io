@@ -2,7 +2,7 @@
 
 ## June 20th 2023, Munich, DE
 
-The representatives of the International Max Planck Research Schools for Astrophysics (Munich) and Astronomy and Cosmic Physics (Heidelberg) are delighted to invite you to attend our joint one-day conference. The event is aimed at fostering closer ties between our communities of early career astronomers, and will consist of networking sessions, discussions and presentations.
+The representatives of the International Max Planck Research Schools for Astrophysics (Munich) and Astronomy and Cosmic Physics (Heidelberg) are delighted to invite you to attend our joint one-day conference. The event is aimed at fostering closer ties between our communities of early career astronomers, and will consist of networking sessions, discussions and presentations. The venue is the New Seminar Room at the MPE.
 
 ## Programme
 
@@ -24,7 +24,8 @@ The representatives of the International Max Planck Research Schools for Astroph
 
 
 ## Registration
-Registration is free and can be done using [this link](https://docs.google.com/forms/d/e/1FAIpQLSdfp7oHsii5GQekthEeC_m39y3cQnSdvDhhj6_qpzVSEIeLfQ/viewform)
+Registration is free and can be done using [this link.](https://docs.google.com/forms/d/e/1FAIpQLSdfp7oHsii5GQekthEeC_m39y3cQnSdvDhhj6_qpzVSEIeLfQ/viewform)
+Note that free lunch is included, but not pizza & drinks.
 
 
 SOC/LOC: Catarina Aydar. Fulvio Ferlito, Cormac Larkin, Florian Schulze, Pavan Vynatheya, Tommy Winterhalder
