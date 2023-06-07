@@ -22,6 +22,11 @@ The representatives of the International Max Planck Research Schools for Astroph
 | 18:00 | Pizza & Drinks                                                                                                                                                       |
 | 20:00 | Departure of HD students                                                                                                                                             |
 
+
+## Registration
+Registration is free and can be done using this link: \url{https://docs.google.com/forms/d/e/1FAIpQLSdfp7oHsii5GQekthEeC_m39y3cQnSdvDhhj6_qpzVSEIeLfQ/viewform}
+
+
 SOC/LOC: Catarina Aydar. Fulvio Ferlito, Cormac Larkin, Florian Schulze, Pavan Vynatheya, Tommy Winterhalder
 
 
