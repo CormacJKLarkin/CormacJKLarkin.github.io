@@ -15,7 +15,7 @@ The representatives of the International Max Planck Research Schools for Astroph
 | 14:40 | Taavet Kalda - Dynamical modelling of the Milky Way, with a particular emphasis on Deep Learning methods                                                             |
 | 15:05 | Group Discussion 2 - Diversity, Equity & Inclusion (Coordinators: Catarina Aydar & Heidelberg rep TBD)                                                               |
 |       | Science Talks Session 2 (Chair: Fulvio Ferlito)                                                                                                                      |
-| 15:35 | Joshua Jost - TBA                                                                                                                                                    |
+| 15:35 | Joshua Jost - MUSE Crowded Field 3D Spectroscopy in NGC 300                                                                                                                                                    |
 | 16:00 | Jia Wei Teh - Modelling the evolution of clusters in embedded clouds                                                                                                 |
 | 16:25 | Group discussion 3 - Future collaboration between our IMPRSs & Early Career Perspectives (Coordinators: Fulvio Ferlito, Pavan Vynatheya, Florian Schulze & Cormac Larkin) |
 | 17:00 | Tour of MPA & MPE (for HD students)                                                                                                                                  |
