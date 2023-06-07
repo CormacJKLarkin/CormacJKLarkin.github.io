@@ -25,7 +25,7 @@ The representatives of the International Max Planck Research Schools for Astroph
 
 ## Registration
 Registration is free and can be done using [this link.](https://docs.google.com/forms/d/e/1FAIpQLSdfp7oHsii5GQekthEeC_m39y3cQnSdvDhhj6_qpzVSEIeLfQ/viewform)
-Note that free lunch is included, but not pizza & drinks.
+Note that free lunch is included, pizza TBD.
 
 
 SOC/LOC: Catarina Aydar. Fulvio Ferlito, Vale González Lobos, Cormac Larkin, Florian Schulze, Soumya Shreeram, Pavan Vynatheya, Tommy Winterhalder
