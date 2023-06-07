@@ -9,7 +9,7 @@ The representatives of the International Max Planck Research Schools for Astroph
 | Time  | Activity                                                                                                                                                             |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 13:00 | Welcome, Lunch & Icebreaker (Coordinators: Tommy Winterhalder & Florian Schulze)                                                                                     |
-| 13:45 | Group Discussion 1 - Find a collaborator! (Coordinators: Cormac Larkin & Munich rep TBD)                                                                |
+| 13:45 | Group Discussion 1 - Find a collaborator! (Coordinators: Cormac Larkin & Vale González Lobos)                                                                |
 |       | Science Talks Session 1 (Chair: Florian Schulze)                                                                                                                     |
 | 14:15 | Clara Escañuela - Signal extraction of raw simulated and laboratory data with the FlashCam camera for Medium Sized Telescopes in CTA                             |
 | 14:40 | Taavet Kalda - Dynamical modelling of the Milky Way, with a particular emphasis on Deep Learning methods                                                             |
@@ -29,7 +29,7 @@ Registration is free and can be done using this link (TBD).
 Note that free lunch is included, but not pizza & drinks.
 
 
-SOC/LOC: Catarina Aydar. Fulvio Ferlito, Cormac Larkin, Florian Schulze, Pavan Vynatheya, Tommy Winterhalder
+SOC/LOC: Catarina Aydar. Fulvio Ferlito, Vale González Lobos, Cormac Larkin, Florian Schulze, Pavan Vynatheya, Tommy Winterhalder
 
 
 
